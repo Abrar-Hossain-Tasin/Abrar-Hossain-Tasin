@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Abrar%20Hossain%20Tasin%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Crafting%20Scalable%20Systems%20%7C%20Full-Stack%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Abrar%20Hossain%20Tasin%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Crafting%20Scalable%20Systems%20%7C%20Full-Stack%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 ---
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?Abrar Hossain Tasinfont=Fira+Code&weight=700&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Engineer+%E2%9A%99%EF%B8%8F;Full-Stack+Developer+%7C+React+%26+Next.js;Microservices+%7C+REST+APIs+%7C+Clean+Architecture;Building+Production-Grade+Systems+🚀;Open+to+Collaborations+%26+Exciting+Projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Engineer+%E2%9A%99%EF%B8%8F;Full-Stack+Developer+%7C+React+%26+Next.js;Microservices+%7C+REST+APIs+%7C+Clean+Architecture;Building+Production-Grade+Systems+🚀;Open+to+Collaborations+%26+Exciting+Projects!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURPROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrar-hossain-tasin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrarhossaintasinp@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOURHANDLE)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/abrarhossaintasin)
 
 <img src="https://komarev.com/ghpvc/?username=Abrar-Hossain-Tasin&label=Profile+Views&color=6EE7F7&style=flat-square" alt="Profile Views" />
 
@@ -182,7 +182,7 @@ public class Me {
 
 I'm always open to interesting conversations, collaborations, freelance work, or full-time opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURPROFILE)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrar-hossain-tasin)
 [![Email](https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrarhossaintasinp@gmail.com)
 
 <br/>
