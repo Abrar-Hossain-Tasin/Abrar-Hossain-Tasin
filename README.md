@@ -27,7 +27,7 @@
 @Developer
 public class Me {
 
-    private final String name       = "Your Name";
+    private final String name       = "Abrar Hossain Tasin";
     private final String role       = "Software Engineer | Full-Stack Developer";
     private final String location   = "Dhaka, Bangladesh 🇧🇩";
     private final String[] focus    = {"Java", "Spring Boot", "Next.js", "React"};
