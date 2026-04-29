@@ -4,9 +4,7 @@
 
 ---
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Engineer+%E2%9A%99%EF%B8%8F;Full-Stack+Developer+%7C+React+%26+Next.js;Microservices+%7C+REST+APIs+%7C+Clean+Architecture;Building+Production-Grade+Systems+🚀;Open+to+Collaborations+%26+Exciting+Projects!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&height=50&lines=Java+%26+Spring+Boot+Engineer+%E2%9A%99%EF%B8%8F%3BFull-Stack+Developer+%7C+React+%26+Next.js%3BMicroservices+%7C+REST+APIs+%7C+Clean+Architecture%3BBuilding+Production-Grade+Systems+%F0%9F%9A%80%3BOpen+to+Collaborations+%26+Exciting+Projects!" alt="Typing SVG" />
 
 <br/>
 
