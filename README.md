@@ -125,20 +125,6 @@ public class Me {
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Abrar-Hossain-Tasin/PROJECT-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abrar-Hossain-Tasin&repo=PROJECT-1&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Abrar-Hossain-Tasin/PROJECT-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abrar-Hossain-Tasin&repo=PROJECT-2&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-</div>
-
-<br/>
-
 | 🏗️ Project | 🛠️ Stack | 📝 Description | 🔗 |
 |---|---|---|---|
 | **E-Commerce Platform** | Spring Boot · React · PostgreSQL · Redis | Production-grade REST API with JWT auth, cart management, order processing, and payment integration | [View →](https://github.com/Abrar-Hossain-Tasin) |
