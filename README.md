@@ -164,7 +164,7 @@ public class Me {
 
 <div align="center">
 
-I'm always open to interesting conversations, collaborations, freelance work, or full-time opportunities.
+I’m always open to engaging discussions, collaborations, freelance projects, or full-time roles.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrar-hossain-tasin)
 [![Email](https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrarhossaintasinp@gmail.com)
